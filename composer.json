@@ -3,6 +3,7 @@
     "description": "A simpler version of php-parallel-lint/PHP-Console-Color",
     "type": "library",
     "license": "BSD-2-Clause",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Powerclonic\\BetterConsoleColor\\": "src/"
