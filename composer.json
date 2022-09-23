@@ -1,6 +1,6 @@
 {
     "name": "powerclonic/better-console-color",
-    "description": "A better version of php-parallel-lint/PHP-Console-Color",
+    "description": "A simpler version of php-parallel-lint/PHP-Console-Color",
     "type": "library",
     "autoload": {
         "psr-4": {
